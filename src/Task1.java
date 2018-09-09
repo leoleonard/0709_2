@@ -5,5 +5,7 @@ public class Task1 {
         System.out.println("programowania");
         System.out.println("i");
         System.out.println("commitowania");
+        System.out.println("sprawdz czy .gitignore pomija pliki");
+        System.out.println(true);
     }
 }
